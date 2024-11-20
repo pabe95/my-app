@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.f855e6bc.css",
+    "main.js": "/my-app/static/js/main.3b34275f.js",
+    "static/js/453.ed3810f9.chunk.js": "/my-app/static/js/453.ed3810f9.chunk.js",
+    "static/media/7975564.jpg": "/my-app/static/media/7975564.b56667d85b184e87d9bc.jpg",
+    "static/media/tribe.png": "/my-app/static/media/tribe.0b7c577e638d15c48ac5.png",
+    "static/media/agenda.png": "/my-app/static/media/agenda.22cc7d8138656470fe62.png",
+    "static/media/tinder.png": "/my-app/static/media/tinder.d282240d2b5f1d36f365.png",
+    "static/media/CONTACT.png": "/my-app/static/media/CONTACT.65139abff8341f881225.png",
+    "static/media/social-media.png": "/my-app/static/media/social-media.b4485c82e188a1d93f88.png",
+    "static/media/behance2.png": "/my-app/static/media/behance2.0818c95f7827cc917a6c.png",
+    "index.html": "/my-app/index.html",
+    "main.f855e6bc.css.map": "/my-app/static/css/main.f855e6bc.css.map",
+    "main.3b34275f.js.map": "/my-app/static/js/main.3b34275f.js.map",
+    "453.ed3810f9.chunk.js.map": "/my-app/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3b34275f.js"
+  ]
+}
